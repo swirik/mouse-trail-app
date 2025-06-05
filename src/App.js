@@ -8,7 +8,7 @@ export const Example = () => {
       renderImageBuffer={50}
       rotationRange={25}
       images={[
-        "/imgs/active/1.jpg",
+        "/imgs/active/1.JPG",
         "/imgs/active/2.jpg",
         "/imgs/active/3.jpg",
         "/imgs/active/4.jpg",
