@@ -164,28 +164,7 @@ export const Example = () => {
     <MouseImageTrail
       renderImageBuffer={50}
       rotationRange={25}
-<<<<<<< HEAD
       images={images}
-=======
-      images={[
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141696/1_uyurbg.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141957/2_abaepj.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141700/3_nvhhnt.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141667/4_yj0mhk.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141684/5_fecshj.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141691/6_vvjvqt.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141690/7_fhmpdv.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141699/8_pw5ndc.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141690/9_sbcura.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141699/10_fu6b82.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141705/11_khwmpf.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141707/12_ttplw2.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141703/13_ybbbuy.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141712/14_opmo0d.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141705/15_uzzo6p.jpg",
-      "https://res.cloudinary.com/daik9ymd7/image/upload/v1749141714/16_b6iouy.jpg",
-      ]}
->>>>>>> 36ec8620534400444334eb2186a7967fbd582786
     >
       <section className="grid h-screen w-full place-content-center bg-white relative">
         {/* Control Panel */}
@@ -336,9 +315,6 @@ const MouseImageTrail = ({
     </div>
   );
 };
-<<<<<<< HEAD
 
 export default Example;
-=======
-export default Example;
->>>>>>> 36ec8620534400444334eb2186a7967fbd582786
+
