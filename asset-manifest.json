@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mouse-trail-app/static/css/main.7bec3aa8.css",
-    "main.js": "/mouse-trail-app/static/js/main.4a65106c.js",
+    "main.css": "/mouse-trail-app/static/css/main.c82b4767.css",
+    "main.js": "/mouse-trail-app/static/js/main.2a94561b.js",
     "static/js/453.46b13bd1.chunk.js": "/mouse-trail-app/static/js/453.46b13bd1.chunk.js",
     "index.html": "/mouse-trail-app/index.html",
-    "main.7bec3aa8.css.map": "/mouse-trail-app/static/css/main.7bec3aa8.css.map",
-    "main.4a65106c.js.map": "/mouse-trail-app/static/js/main.4a65106c.js.map",
+    "main.c82b4767.css.map": "/mouse-trail-app/static/css/main.c82b4767.css.map",
+    "main.2a94561b.js.map": "/mouse-trail-app/static/js/main.2a94561b.js.map",
     "453.46b13bd1.chunk.js.map": "/mouse-trail-app/static/js/453.46b13bd1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bec3aa8.css",
-    "static/js/main.4a65106c.js"
+    "static/css/main.c82b4767.css",
+    "static/js/main.2a94561b.js"
   ]
 }
