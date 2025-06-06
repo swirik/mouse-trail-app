@@ -128,6 +128,11 @@ export const Example = () => {
               <p className="text-white/60 text-sm mt-1">or drag and drop</p>
             </div>
           </label>
+          <div className="mt-6 text-center">
+              <p className="text-white text-lg font-semibold tracking-wide">
+                by Matt / Swirik
+              </p>
+            </div>
         </div>
       </section>
     );
